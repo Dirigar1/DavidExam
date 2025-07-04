@@ -1,0 +1,22 @@
+{
+  "name": "davidexam",
+  "version": "1.0.0",
+  "description": "DavidExam",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dirigar1/DavidExam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dirigar1/DavidExam/issues"
+  },
+  "homepage": "https://github.com/Dirigar1/DavidExam#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10"
+  }
+}
